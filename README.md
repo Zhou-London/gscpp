@@ -23,6 +23,10 @@ You may replace the "Medium" with "Bold" or whatever and build more kinds.
 
 You may add more flags. Check Nerd Font Pather for more.
 
+## TODO
+
+- Anyone knows if it's possible to hard-code these icons into the source code?
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at [https://openfontlicense.org](https://openfontlicense.org)
